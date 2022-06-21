@@ -1,7 +1,5 @@
 # Dessert Cafe
 
-Dessert Cafe
-
 ## Motivation
 
 This is a passion project which stems from my interest in building websites for small businesses.
